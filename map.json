@@ -230,5 +230,6 @@
   "onvolumechange": "onVolumeChange",
   "onwaiting": "onWaiting",
   "onload": "onLoad",
-  "onerror": "onError"
+  "onerror": "onError",
+  "xlink:href": "xlinkHref"
 }
